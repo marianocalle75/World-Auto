@@ -14,7 +14,13 @@ Here in you can drive in any location of the world and see the local time and we
 13. Press P to open the Autopilot (you can just add the destination and the car will start from your current location).
 
 This is just a software to test. 
+<img width="3840" height="2055" alt="{9BA0FC69-2F0B-46C4-9F91-8E280A354A45}" src="https://github.com/user-attachments/assets/0eaa477e-bab3-4184-abc4-4d7b167f4e42" />
+<img width="3840" height="2050" alt="{65B2131B-8BF5-49A7-B6DE-A8956B93A383}" src="https://github.com/user-attachments/assets/c58af7e1-470a-4df3-a397-1dc243c6f8b7" />
+<img width="3840" height="1964" alt="{0A7DCB6F-BCBF-40DD-A353-658660AA19DA}" src="https://github.com/user-attachments/assets/299bad3e-75b9-4f37-8c74-1e74fcb0ba2e" />
+<img width="3840" height="1949" alt="{31875DF2-3D1E-492D-8012-7AFE7CD4D637}" src="https://github.com/user-attachments/assets/5fe5e53c-4eeb-48bf-9c60-92491fc7fc21" />
 
-<img width="1600" height="900" alt="World Auto" src="https://github.com/user-attachments/assets/d485e360-6e1d-46aa-8422-b6c40a706fce" />
-<img width="3840" height="1958" alt="{648C2339-4574-4B46-85BB-6ABD975DB3F4}" src="https://github.com/user-attachments/assets/67fee4bb-1e29-498a-ab3c-e22b435743d5" />
-<img width="3840" height="2060" alt="{C46F0BC1-890C-4F81-96F6-D528607ED872}" src="https://github.com/user-attachments/assets/cf17a79e-c91c-4149-a4b6-07b40f466823" />
+
+
+
+
+
