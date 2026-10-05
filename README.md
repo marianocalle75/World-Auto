@@ -2,7 +2,7 @@ Here in you can drive in any location of the world and see the local time and we
 
 1. Extract files.
 2. Install Node.js here https://nodejs.org/
-3. Make an account in Cesium and get a token here https://ion.cesium.com/tokens
+3. Make an account in Cesium and get a token here https://ion.cesium.com/tokens (it's totally free).
 4. Start the game clicking on Iniciar World Auto.bat file.
 5. Wait some minutes until a browser window is open and you will see the game in http://localhost:8000/World%20Auto.html
 6. Enter the Cesium token (this is just once the first time you run the script).
