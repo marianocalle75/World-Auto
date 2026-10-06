@@ -18,6 +18,8 @@ This is just a software to test.
 <img width="3840" height="2050" alt="{65B2131B-8BF5-49A7-B6DE-A8956B93A383}" src="https://github.com/user-attachments/assets/c58af7e1-470a-4df3-a397-1dc243c6f8b7" />
 <img width="3840" height="1964" alt="{0A7DCB6F-BCBF-40DD-A353-658660AA19DA}" src="https://github.com/user-attachments/assets/299bad3e-75b9-4f37-8c74-1e74fcb0ba2e" />
 <img width="3840" height="1949" alt="{31875DF2-3D1E-492D-8012-7AFE7CD4D637}" src="https://github.com/user-attachments/assets/5fe5e53c-4eeb-48bf-9c60-92491fc7fc21" />
+<img width="3840" height="2045" alt="{DB345615-AD40-4697-9F17-328FE7F31B90}" src="https://github.com/user-attachments/assets/6755fd7e-ac68-4ea3-b05f-d6afb4f58882" />
+
 
 
 
